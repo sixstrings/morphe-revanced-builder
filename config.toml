@@ -1,20 +1,26 @@
 enable-magisk-update = true
 parallel-jobs = 1
 
-# ReVanced
-[YouTube]
-apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
+#Revanced
+[YouTube-Revanced]
+app-name = "YouTube"
+build-mode = "both"
+excluded-patches = ""
+included-patches = ""
+version = "auto"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
-build-mode = "both"
-patcher-args = "-e 'Theme' -OdarkThemeBackgroundColor=@android:color/black"
+rv-brand = "Revanced"        
 
-[YT-Music]
-apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
+[YT-Music-Revanced]
+app-name = "YT Music"
+build-mode = "both"
+arch = "arm64-v8a"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
-arch = "arm64-v8a"
-build-mode = "both"
+rv-brand = "Revanced"      
 
 # ReVanced Extended by anddea
 [YouTube-anddea]
