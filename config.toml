@@ -18,6 +18,7 @@ build-mode = "both"
 
 # ReVanced Extended by anddea
 [YouTube-anddea]
+enabled = false
 app-name = "YouTube"
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
@@ -29,6 +30,7 @@ excluded-patches = "'Custom Shorts action buttons' 'Force player buttons backgro
 patcher-args = "-e 'Theme' -OdarkThemeBackgroundColor=@android:color/black"
 
 [YT-Music-anddea]
+enabled = false
 app-name = "YT Music"
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
 uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
