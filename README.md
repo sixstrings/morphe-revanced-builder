@@ -39,7 +39,7 @@ cd revanced-morphe-builder
 - [j-hc](https://github.com/j-hc) for creating this builder, for zygisk-detach and rvmm-zygisk-mount.
 - Of course the [Morphe](https://github.com/MorpheApp) team for the amazing Morphe app and patches.
 - The [ReVanced](https://github.com/ReVanced) team for Revanced app.
-- [petermueller](https://github.com/petermueller/revanced-morphe-builder) for the fork.
+- [petermueller](https://github.com/peternmueller/revanced-morphe-builder) for the fork.
 
 ## License
     Copyright (C) 2024-2026  Peter Noël Muller
