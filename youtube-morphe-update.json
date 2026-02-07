@@ -1,6 +1,6 @@
 {
   "version": "20.40.45 (patches 1.12.0.mpp)",
-  "versionCode": 2,
-  "zipUrl": "https://github.com/sixstrings/morphe-revanced-builder/releases/download/2/youtube-morphe-magisk-v20.40.45-all.zip",
+  "versionCode": 3,
+  "zipUrl": "https://github.com/sixstrings/morphe-revanced-builder/releases/download/3/youtube-morphe-magisk-v20.40.45-all.zip",
   "changelog": "https://raw.githubusercontent.com/sixstrings/morphe-revanced-builder/update/build.md"
 }

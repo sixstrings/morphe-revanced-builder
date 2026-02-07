@@ -1,4 +1,5 @@
 YT-Music-Revanced: 8.10.52  
+YouTube-Morphe: 20.40.45  
 YouTube-Revanced: 20.14.43  
 
 Install [ReVanced GmsCore](https://github.com/ReVanced/GmsCore/releases/latest) or [Morphe MicroG-RE](https://github.com/MorpheApp/MicroG-RE) for non-root YouTube and YouTube Music APKs  
