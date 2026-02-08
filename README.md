@@ -10,10 +10,10 @@ This Morphe and Revanced builder creates both APKs and [Magisk](https://github.c
 ## Installation
 ### Non-root users
 - Install the [ReVanced GmsCore app](https://github.com/ReVanced/GmsCore/releases/latest) or the [Morphe MicroG-RE app](https://github.com/MorpheApp/MicroG-RE).
-- Download the APK files you want to install from the [releases page](https://github.com/sixstrings/morphe-revancec-builder/releases/latest).
+- Download the APK files you want to install from the [releases page](https://github.com/sixstrings/morphe-revanced-builder/releases/latest).
 
 ### Root users
-- Download the ZIP files you want to flash from the [releases page](https://github.com/peternmuller/revanced-morphe-builder/releases/latest).
+- Download the ZIP files you want to flash from the [releases page](https://github.com/sixstrings/morpherevanced-builder/releases/latest).
   
 - Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach YouTube and YouTube Music from the Play Store.
 
