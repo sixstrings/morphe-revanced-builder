@@ -15,10 +15,11 @@ This Morphe and Revanced builder creates both APKs and [Magisk](https://github.c
 ### Root users
 - Download the ZIP files you want to flash from the [releases page](https://github.com/peternmuller/revanced-morphe-builder/releases/latest).
   
-## Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach YouTube and YouTube Music from the Play Store.
+- Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach YouTube and YouTube Music from the Play Store.
 
 
-## If you are having trouble with the classic mount method of the modules such as,
+
+## If you are having trouble with the classic mount method of the modules such as:
 - **"Reflash needed"** error after reboots
 - **"Suspicious mount detected"** warnings from root detector apps you can consider using
 - [rvmm-zygisk-mount](https://github.com/j-hc/rvmm-zygisk-mount)
