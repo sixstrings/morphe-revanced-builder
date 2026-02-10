@@ -1,4 +1,4 @@
-enable-magisk-update = true
+enable-magisk-update = false
 parallel-jobs = 1
 
 #Revanced
@@ -60,10 +60,10 @@ build-mode = "both"
 
 [YT-Music-Morphe]
 app-name = "YT Music"
-apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music" 
+#apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music" 
 uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 patches-source = "MorpheApp/morphe-patches"
 cli-source = "MorpheApp/morphe-cli"
 rv-brand = "Morphe"
-arch = "both"
+arch = "arm64-v8a"
 build-mode = "both"
