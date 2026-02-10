@@ -1,4 +1,4 @@
-enable-magisk-update = true
+enable-magisk-update = false
 parallel-jobs = 1
 
 # ReVanced
