@@ -43,7 +43,7 @@ cd revanced-morphe-builder
 - [peternmuller](https://github.com/peternmuller/revanced-morphe-builder) for the fork.
 
 ## License
-    Copyright (C) 2024-2026  Peter Noël Muller
+    Copyright (C) 2024-2026 
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
